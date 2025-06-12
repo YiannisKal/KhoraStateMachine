@@ -1,0 +1,16 @@
+{
+    "name": "com.khora.fsm.Editor",
+    "rootNamespace": "",
+    "references": [
+        "com.khora.fsm.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,7 @@
+{
+    "name": "com.khora.fsm",
+    "version": "1.0.0",
+    "displayName": "Simple FSM",
+    "description": "A data-driven finite machine framework using reusable Condition SO assets.",
+    "unity": "6000.0"
+}
