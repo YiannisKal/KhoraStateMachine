@@ -1,9 +1,7 @@
 using UnityEditor;
 using UnityEditorInternal;
 using UnityEngine;
-
-
-
+//test1
 namespace Khora.FSM
 {
     [CustomEditor(typeof(StateMachineBehaviour))]
